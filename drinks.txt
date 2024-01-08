@@ -1,0 +1,6 @@
+coffee
+water
+hot chocolate
+tea
+beer
+juice
